@@ -1,12 +1,7 @@
-/*
-Gets coordinates of 3 points and finds if the last point
-is on the same line as the first two. Prints "true" or "false".
-*/
-
 #include <iostream>
 #include "geocheck.h"
 
-int main() 
+int main()
 {
 
   float x1, x2, x3, y1, y2, y3;
@@ -27,4 +22,3 @@ int main()
 
   return 0;
 }
-
